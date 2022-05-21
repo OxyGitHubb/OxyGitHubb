@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Krustyy
-- 👀 I’m interested in making discord bots and games
-- 🌱 I’m currently learning js, python, css, html, c++
-- 📫 Krustyy#7558
+- 👀 I’m interested in making discord bots, games and web stuff
+- 🌱 I’m currently learning js, css, html and c++
+- 📫 My Discord tag is Krustyy#7558
