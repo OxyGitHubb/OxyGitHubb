@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OxyGitHubb
+- 👋 Hi, I’m Krustyy
 - 👀 I’m interested in making discord bots and games
 - 🌱 I’m currently learning js, python, css, html, c++
 - 📫 Krustyy#7558
